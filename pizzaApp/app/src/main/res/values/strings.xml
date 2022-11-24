@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pizza-app</string>
+    <string name="pizza_app_name">Pizza Application</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="adress">Adress</string>
+    <string name="pizza_type">Pizza Type</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+</resources>
